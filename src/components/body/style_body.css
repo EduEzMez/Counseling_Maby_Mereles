@@ -74,10 +74,26 @@
         width: 50%;
     }
     .container_imagen{
-        max-width: 500px;
+        max-width: 400px;
     }
     .imagen_body{
         width: 100%;
+    }
+    .texto1{
+        margin-top: 20px;
+        font-family: "Rubik", serif;
+        font-weight: 100;
+        font-style: normal;
+        font-size: 2dvw;
+        text-align: center;
+    }
+    .texto2{
+        margin-top: 20px;
+        font-family: "Rubik", serif;
+        font-weight: 100;
+        font-style: normal;
+        font-size: 2dvw;
+        text-align: center;
     }
 }
 
@@ -87,10 +103,26 @@
         width: 50%;
     }
     .container_imagen{
-        max-width: 700px;
+        max-width: 600px;
     }
     .imagen_body{
         width: 100%;
+    }
+    .texto1{
+        margin-top: 20px;
+        font-family: "Rubik", serif;
+        font-weight: 100;
+        font-style: normal;
+        font-size: 1dvw;
+        text-align: center;
+    }
+    .texto2{
+        margin-top: 20px;
+        font-family: "Rubik", serif;
+        font-weight: 100;
+        font-style: normal;
+        font-size: 1dvw;
+        text-align: center;
     }
 }
 

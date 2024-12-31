@@ -3,7 +3,9 @@ import './style_footer.css'
 function Footer() {
   return (
     <>
-    <p>Hola soy el Footer</p>
+    <section className='container_footer'>
+      <p>En construcción 💖</p>
+    </section>
     </>
   )
 }

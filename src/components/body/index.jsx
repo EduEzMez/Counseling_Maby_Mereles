@@ -14,7 +14,7 @@ function Body() {
       </div>
       <section className='container_comentario'>
           <p className='texto1'>Me alegra mucho que hayas llegado a mi sitio web</p>
-          <p className='texto2'>Antes que nada quiero darte la bienvenida a este espacio de counseling</p>
+          <p className='texto2'>Antes que nada, quiero darte la bienvenida a este espacio de counseling.</p>
           <p className='texto2'>Un espacio de escucha, para mejorar tu bienestar personal.</p>
       </section>
     </section>

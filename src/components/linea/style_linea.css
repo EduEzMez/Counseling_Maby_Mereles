@@ -1,0 +1,13 @@
+.container_linea{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #EDE1CF;
+}
+
+
+.linea{
+    background-color: #76A1A7 ;
+    width: 90%;
+    height: 2px;
+}

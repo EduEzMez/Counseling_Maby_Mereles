@@ -4,11 +4,22 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-direction: column;
+    background-color: #EDE1CF;
 }
 
 .nombre{
     font-family: "Tangerine", serif;
     font-weight: 800;
     font-style: normal;
-    font-size: 50px;
+    font-size: 60px;
+    color: #776c67;
+}
+
+.counselor_nombre{
+    font-family: "Rubik", serif;
+    font-weight: 100;
+    font-style: normal;
+    font-size: 20px;
+    color: #776c67;
 }
